@@ -1,3 +1,6 @@
+sudo apt update
+sudo apt upgrade
+
 sudo apt install flatpak
 
 sudo apt install plasma-discover-backend-flatpak
